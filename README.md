@@ -32,6 +32,8 @@ pip install -r requirements.txt
 python3 -m venv venv
 ```
 **Activate the Virtual Environment:**
+
+> Run the following command to Activate the virtual environment 
 ```
 source venv/bin/activate
 ```
@@ -66,6 +68,7 @@ Enter the phone number when prompted (include the country code, e.g., +123456789
 
 > requests
 
+
 **🔒 Security Note:**
 
 Ensure your NumVerify API key is kept secure. Consider using environment variables or a separate configuration file.
@@ -74,9 +77,11 @@ Ensure your NumVerify API key is kept secure. Consider using environment variabl
 
 Contributions are welcome! Please fork this repository and create a pull request with your enhancements.
 
+
 **📄 License:**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 📧 **Contact:**
 
@@ -85,5 +90,6 @@ For questions or support, reach out to:
 **EMAIL** : **arti7tofficial@gmail.com**
 
 Feel free to raise an issue for any bugs or feature requests!
+
 
 **Developed with ❤️ by @ARTIST for INFLUXION.**
