@@ -24,6 +24,17 @@ cd PHONESPY
 ```
 pip install -r requirements.txt
 ```
+3. **🐍 Setting Up a Virtual Environment**(IF ANY ERROR FOUND)
+
+**Create a Virtual Environment:**
+>  Run the following command to create a virtual environment named venv
+```
+python3 -m venv venv
+```
+**Activate the Virtual Environment:**
+```
+source venv/bin/activate
+```
 
 📝 **USAGE:**
 
