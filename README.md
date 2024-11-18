@@ -1,17 +1,18 @@
-📱 **Phone Number Lookup Tool**
+📱 **PHONE NUMBER LOOKUP TOOL**
 
 A powerful Python-based tool for looking up details about phone numbers, complete with carrier and country information. Integrates the phonenumbers library and NumVerify API for comprehensive results.
 
 🚀**Features:**
 
 
-🌍 Country and carrier detection using phonenumbers.
+> 🌍 Country and carrier detection using phonenumbers.
 
 
-🔍 API integration with NumVerify for extended phone number validation and details.
+> 🔍 API integration with NumVerify for extended phone number validation and details.
 
 
-📋 Formatted output for easy interpretation.
+> 📋 Formatted output for easy interpretation.
+
 
 **🛠️ Installation**
 
