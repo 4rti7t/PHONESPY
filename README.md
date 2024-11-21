@@ -14,7 +14,7 @@ A powerful Python-based tool for looking up details about phone numbers, complet
 > 📋 Formatted output for easy interpretation.
 
 
-**🛠️ Installation**
+**🛠️ INSTALLATION**
 
 1. **CLONE THE REPOSITORY:**
 ```
