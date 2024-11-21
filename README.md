@@ -52,6 +52,7 @@ Enter the phone number when prompted (include the country code, e.g., +123456789
 **📂 Project Structure**
 
 **PHONESPY:**
+
 ├── ascii_art.py         # ASCII art for terminal display
 
 ├── phonespy.py          # Main phone lookup logic
