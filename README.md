@@ -60,7 +60,7 @@ Enter the phone number when prompted (include the country code, e.g., +123456789
 
 ├── README.md            # Project documentation
 
-🧰 **Requirements**
+🧰 **REQUIREMENTS**
 > Python 3.x
 
 > Libraries:
@@ -79,15 +79,16 @@ Ensure your NumVerify API key is kept secure. Consider using environment variabl
 Contributions are welcome! Please fork this repository and create a pull request with your enhancements.
 
 
-**📄 License:**
+**📄 LICENSE:**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-📧 **Contact:**
+📧 **CONTACT:**
 
 For questions or support, reach out to:
 **AUTHOR** : **ARTIST**
+
 **EMAIL** : **arti7tofficial@gmail.com**
 
 Feel free to raise an issue for any bugs or feature requests!
