@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 3. **🐍 Setting Up a Virtual Environment**(IF ANY ERROR FOUND)
 
-**Create a Virtual Environment:**
+**Create a Virtual ENVIRONMENT:**
 >  Run the following command to create a virtual environment named venv
 ```
 python3 -m venv venv
