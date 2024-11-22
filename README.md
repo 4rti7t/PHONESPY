@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 python3 -m venv venv
 ```
-**Activate the Virtual Environment:**
+**ACTIVATE the Virtual Environment:**
 
 > Run the following command to Activate the virtual environment 
 ```
