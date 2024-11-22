@@ -2,7 +2,7 @@
 
 A powerful Python-based tool for looking up details about phone numbers, complete with carrier and country information. Integrates the phonenumbers library and NumVerify API for comprehensive results.
 
-🚀**Features:**
+🚀**FEATURES:**
 
 
 > 🌍 Country and carrier detection using phonenumbers.
